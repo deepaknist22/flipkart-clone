@@ -59,5 +59,15 @@ nav ul{
     width: 500px;
     height: 26px;
     border-radius: 3px;
-    margin: 0px 112px;
+    margin: 0px 16px 0px 56px;
+    padding: 0px 12px;
 }
+.search button{
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+.slider{
+    margin: 12px auto;
+    width: 80vw;
+}
+.slider img{}
