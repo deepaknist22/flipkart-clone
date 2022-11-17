@@ -50,3 +50,14 @@ nav ul{
 .container{
     min-height: calc(100vh - 58px - 12vh);
 }
+.search{
+    display: flex;
+    align-items: center;
+}
+
+.search input{
+    width: 500px;
+    height: 26px;
+    border-radius: 3px;
+    margin: 0px 112px;
+}
